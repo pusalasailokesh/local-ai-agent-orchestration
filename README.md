@@ -1,4 +1,4 @@
-# Local AI Agent Orchestration
+# Local AI Agent Orchestration on macOS (OpenClaw + Anthropic + Telegram)
 
 Self-hosted AI agent runtime with secure gateway authentication, Telegram channel routing, and Anthropic integration on macOS.
 
